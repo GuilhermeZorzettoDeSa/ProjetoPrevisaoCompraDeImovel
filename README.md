@@ -1,2 +1,7 @@
-# ProjetoPrevisaoCompraDeImovel
-Projeto de Parceria Semantix do curso de ciência de dados da EBAC
+# Projeto de Previsão de Compra de Imóvel
+Projeto de Parceria Semantix do curso de ciência de dados da EBAC. Utilizando uma base de dados retirada da plataforma Kaggle, modelos de aprendizado de máquina foram desenvolvidos para prever quais os clientes compradores e não compradores.
+
+O projeto foi desenvolvido pelo aluno e cientista de dados Guilherme Zorzetto de Sá, em parceria com a empresa Semantix, como parte do curso profissionalizante de Cientista de Dados e do Programa de Empregabilidade. A linguagem Python foi a principal ferramenta utilizada para executá-lo, através do Jupyter Notebook, e contém todas as principais etapas de um projeto de ciência de dados: análise exploratória dos dados, pré-processamento, modelagem e avaliação dos resultados, assim como comentários explicando cada linha de código e os "insights" que foram retirados ao longo de sua montagem. Esse repositório também conta com um relatório em PDF com uma explicação direta de todo o desenvolvimento do projeto e suas etapas principais e o arquivo "requirements.txt", com a lista das bibliotecas e importações utilizadas e necessárias para o bom funcionamento do programa.
+
+A base de dados contém características e informações sobre diversas propriedades e clientes, publicada pelo usuário "Mohan Krishna Thalla" e podendo ser acessada por esse link: 
+https://www.kaggle.com/datasets/mohankrishnathalla/global-house-purchase-decision-dataset/data/code
